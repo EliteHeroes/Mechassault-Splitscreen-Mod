@@ -1,0 +1,26 @@
+MechAssault - 3/4 Player Split-Screen
+Provided by: MechDonald's
+Our Discord: https://discord.gg/yKpHC5EPzy
+**Install Guide**
+------------------------------------------------------------------
+Pre-requisites
+ - Need to acquire a copy of Mechassault. Either installed on a modded Xbox or on a PC. If you have an ISO-type file, make sure to convert it so you can directly access the contents of the game files.
+ - You'll also need to download and install all of Mechassault's DLC for the best and complete experience.
+ - Make sure you setup and follow the instructions for either the Mechassault Mod Pack or the Base mod first, as this mod requires files found there.
+
+------------------------------------------------------------------
+Installing
+ - Download the latest version of the mod from the 'Releases' page and extract the contents from '3-4.Player.Split-Screen.zip'.
+ - Open your Mechassault game folder. For console, you can do this using an FTP program to connect a modded Xbox to a PC.
+ - Choose which version is most relevant to your current setup and open that folder, i.e. 4 player Rebalance for the Mechassault Mod Pack install.
+ - Drag and drop the file(s) from inside the chosen folder into the Mechassault game folder (where you previously installed the Mod Pack or Base Mod), agreeing to replace the file(s).
+ - If necessary, you can now convert the game folder to an XISO format so emulators such as Xemu can read the new game 	data.
+ - And that's it! You'll now be able to select 'LAUNCH MODS' in the options menu of the game, or you can start the modded game directly with the new N1Launch.xbe
+
+------------------------------------------------------------------
+Note:
+ - Make sure this mod is installed after installing any other mod, as this replaces the xbe file to force the game to always start with 3 or 4 players.
+ - If you wish to revert this, you can replace 'N1Launch.xbe' with the one from the Mod Pack or Base mod.
+
+------------------------------------------------------------------
+If you're still having any problems with installing, feel free to leave a message in the help section on the MechDonald's Discord (link at the top).
