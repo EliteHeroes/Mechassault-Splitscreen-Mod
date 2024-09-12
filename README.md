@@ -14,7 +14,7 @@ This mod restores a cut split-screen feature that was once planned for Mechassau
 
 ### Installing
 
-1. Download the latest version of the mod from the '[Releases](https://github.com/EliteHeroes/Mechassault-Splitscreen-Mod/releases)' page and extract the contents from 'Mechassault Splitscreen Mod.zip'.
+1. Download the latest version of the mod from the '[Releases](https://github.com/EliteHeroes/Mechassault-Splitscreen-Mod/releases)' page and extract the contents from '3-4.Player.Split-Screen.zip'.
 2. Open your Mechassault game folder. For console, you can do this using an FTP program to connect a modded Xbox to a PC.
 3. Choose which version is most relevant to your current setup and open that folder, i.e. 4 player Rebalance for the Mechassault Mod Pack install.
 4. Drag and drop the file(s) from inside the chosen folder into the Mechassault game folder (where you previously installed the Mod Pack or Base Mod), agreeing to replace the file(s).
