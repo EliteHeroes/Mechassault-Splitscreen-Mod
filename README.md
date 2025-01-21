@@ -29,7 +29,7 @@ If the game isn't detecting the newly installed mod, here are some things you ca
 * Check you've chosen the correct version of this mod to install. 3/4 Player Rebalance for the mods that include Rebalance, such as the Mod Pack or the Base Mod version for anything else.
 * Also make sure this mod is installed after installing any other mod, as this replaces the xbe file to force the game to always start with 3 or 4 players.
 
-If you're still having any problems with installing, feel free to leave a message in the help section on the [MechDonald's Discord](https://discord.gg/yKpHC5EPz)
+If you're still having any problems with installing, feel free to leave a message in the help section on the [MechDonald's Discord](https://discord.gg/yKpHC5EPzy)
 
 ## For More Information
 
