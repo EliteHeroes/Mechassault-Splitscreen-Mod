@@ -9,7 +9,7 @@ This mod restores a cut split-screen feature that was once planned for Mechassau
 ### Pre-requisites
 
 * Need to acquire a copy of Mechassault. Either installed on a modded Xbox or on a PC. If you have an ISO-type file, make sure to convert it so you can directly access the contents of the game files.
-* You'll also need to download and install all of [Mechassault's DLC](https://digiex.net/threads/xbox-offline-xbox-live-downloadable-content-dlc-installers.675) for the best and complete experience.
+* You DO NOT need to install the Mechassault DLC, as the DLC features are included within the latest mod version.
 * Make sure you setup and follow the instructions for either the [Mechassault Mod Pack](https://github.com/EliteHeroes/Mechassault-Mod-Pack) or the Base mod first, as this mod requires files found there.
 
 ### Installing
@@ -19,7 +19,7 @@ This mod restores a cut split-screen feature that was once planned for Mechassau
 3. Choose which version is most relevant to your current setup and open that folder, i.e. 4 player Rebalance for the Mechassault Mod Pack install.
 4. Drag and drop the file(s) from inside the chosen folder into the Mechassault game folder (where you previously installed the Mod Pack or Base Mod), agreeing to replace the file(s).
 5. If necessary, you can now convert the game folder to an XISO format so emulators such as [Xemu](https://xemu.app) can read the new game data.
-6. And that's it! You'll now be able to select 'LAUNCH MODS' in the options menu of the game, or you can start the modded game directly with the new N1Launch.xbe
+6. And that's it! You'll now be able to select between the Modded version and Vanilla on start-up or you can switch versions in the options menu of the game.
 
 ### Help
 
